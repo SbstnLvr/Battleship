@@ -1,0 +1,2 @@
+from barquitos import *
+Jugar()
